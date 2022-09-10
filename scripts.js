@@ -1,4 +1,3 @@
-
 let form = document.getElementById("form");
 
 // localStorage.clear();
